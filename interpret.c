@@ -1,3 +1,5 @@
+// Copyright (C) 2025 ITlopa
+// The Ituxalien Script compiler written in C.
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
